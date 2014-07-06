@@ -1,0 +1,8 @@
+{
+  "name": "meteor-server-validator",
+  "description": "A wrapper around validator (npm)",
+  "homepage": "https://github.com/ServiceLocale/Meteor-Server-Validator",
+  "author": "Akshat Khatri",
+  "version": "1.0",
+  "git": "https://github.com/ServiceLocale/Meteor-Server-Validator.git"
+}

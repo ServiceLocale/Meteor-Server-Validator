@@ -1,0 +1,1 @@
+Validator = Npm.require('validator');
